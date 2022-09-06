@@ -19,3 +19,6 @@ Positioning of LCD Displays all over the house in order to increase and to have 
 • Possibility to know the Current Temperature and Humidity in the house.
 • Insertion of Alcohol Level Detector with alarm.
 • Implementation of a Heart-Beat Pulsimeter.
+
+Project Site: http://mrtechnologyarduino.altervista.org/
+Project Video Presentation: https://youtu.be/r6zv1fbpUSc
