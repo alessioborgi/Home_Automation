@@ -1,6 +1,6 @@
 # Home_Automation
 
-Copyright © 2022 Alessio Borgi
+Copyright © 2020 Alessio Borgi
 
 PROJECT SCOPE: Build a Miniature Home Automation Model.
 
