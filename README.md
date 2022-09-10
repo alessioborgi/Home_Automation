@@ -20,5 +20,6 @@ Positioning of LCD Displays all over the house in order to increase and to have 
 • Insertion of Alcohol Level Detector with alarm.
 • Implementation of a Heart-Beat Pulsimeter.
 
-Project Site: http://mrtechnologyarduino.altervista.org/
-Project Video Presentation: https://youtu.be/r6zv1fbpUSc
+PROJECT SITE: http://mrtechnologyarduino.altervista.org/
+
+PROJECT VIDEO PRESENTATION: https://youtu.be/r6zv1fbpUSc
