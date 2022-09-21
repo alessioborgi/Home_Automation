@@ -5,7 +5,7 @@ Copyright © 2020 Alessio Borgi
 PROJECT SCOPE: Build a Miniature Home Automation Model.
 
 PROJECT RESULTS:
-• House’s lights control with door opening through an APP created by me with the option to manage through VOICE COMMAND.
+• House’s lights control with door opening through an APP created by me with the option to manage through Voice Command.
 • Detection Movement Alarm (both Detection Laser Alarm and Detection Movement Sensor).
 • Earthquakes and Alcohol Level Detector with alarm.
 • Smoke and Fire detection system.
