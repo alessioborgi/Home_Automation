@@ -10,7 +10,7 @@ PROJECT RESULTS:
 • Earthquakes and Alcohol Level Detector with alarm.
 • Smoke and Fire detection system.
 • Door opening systems with password, Touch sensor, RFID card, and through App.
-• LCD Displays to report back alarms / measurement’s results (temperature, time, humidity, etc.)
+• LCD Displays to report back alarms / measurement’s results (temperature, time, humidity, etc.).
 • Buzzers sounds acoustic warnings.
 • Led for lighting, fireplace effects and alarm purposes 
 • Heart-Beat Pulsimeter.
