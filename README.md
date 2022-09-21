@@ -12,7 +12,7 @@ PROJECT RESULTS:
 • Door opening systems with password, Touch sensor, RFID card, and through App.
 • LCD Displays to report back alarms / measurement’s results (temperature, time, humidity, etc.).
 • Buzzers sounds acoustic warnings.
-• Led for lighting, fireplace effects and alarm purposes 
+• Led for lighting, fireplace effects and alarm purposes. 
 • Heart-Beat Pulsimeter.
 
 PROJECT REPOSITORY: https://github.com/alessioborgi/Home_Automation
