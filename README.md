@@ -1,8 +1,8 @@
-# Home_Automation
+# Home Automation
 
 **Copyright © 2020 Alessio Borgi**
 
-**PROJECT SCOPE**: Build a Miniature Home Automation Model.
+**PROJECT SCOPE**: Build a Miniature Home Automation Model. This project is focused on creating a smart home environment using IoT and automation technologies. This repository features the development of systems for controlling home devices, monitoring environmental conditions, and enhancing daily life convenience through automated routines. Ideal for enthusiasts looking to explore smart home solutions and IoT integration.
 
 **PROJECT RESULTS**:
 - House’s lights control with door opening through an APP created by me with the option to manage through Voice Command.
